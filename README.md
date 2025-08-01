@@ -1,4 +1,4 @@
-[![T's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheWCKD&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![T's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheWCKD&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 **Hello there** 👋
 - 🔭 I’m currently working on developing high-performance crypto trading bots using Python on Binance Exchange.
